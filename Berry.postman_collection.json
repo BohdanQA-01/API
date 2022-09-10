@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "f37f3b2c-67bd-4e6d-9b9f-f0cc44659a00",
+		"name": "Berry",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22399871"
+	},
+	"item": [
+		{
+			"name": "Вывод ягоды",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Определенная ягода",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
